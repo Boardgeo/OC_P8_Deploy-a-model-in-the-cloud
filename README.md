@@ -13,3 +13,10 @@ The company Fruits! would like to develop and deploy intelligent picking robots 
   
 
   - Realize a first data processing chain with pre-processing and a dimension reduction step 
+
+
+## Tools and competencies
+ - Big Data
+ - AWS and Cloud
+ - Apache Spark and pystark
+ 

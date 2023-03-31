@@ -18,5 +18,5 @@ The company Fruits! would like to develop and deploy intelligent picking robots 
 ## Tools and competencies
  - Big Data
  - AWS and Cloud
- - Apache Spark and pystark
+ - Apache Spark and pyspark
  
